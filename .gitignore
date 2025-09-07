@@ -1,0 +1,5 @@
+.venv
+logs
+tb
+*.mp4
+*.zip
